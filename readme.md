@@ -4,9 +4,7 @@
 
 1.
 2.
-<<<<<<< HEAD
-3. Quiero analizar outliers
-4. Quiero hacer descriptivos
-=======
 3. Voy a analizar los datos
->>>>>>> nueva-rama
+4. Quiero hacer descriptivos
+5. Eliminar los outliers 
+6. Crear una nueva tabla
