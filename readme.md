@@ -4,5 +4,9 @@
 
 1.
 2.
+<<<<<<< HEAD
 3. Quiero analizar outliers
 4. Quiero hacer descriptivos
+=======
+3. Voy a analizar los datos
+>>>>>>> nueva-rama
