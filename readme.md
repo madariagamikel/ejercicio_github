@@ -4,4 +4,5 @@
 
 1.
 2.
-3.
+3. Quiero analizar outliers
+4. Quiero hacer descriptivos
