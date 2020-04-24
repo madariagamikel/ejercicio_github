@@ -1,0 +1,3 @@
+# carga de datos
+
+data<- read... 
